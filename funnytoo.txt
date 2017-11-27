@@ -1,0 +1,20 @@
+name="Funny OR Die"
+url="https://www.youtube.com/channel/UCzS3-65Y91JhOxFiM7j6grg"
+icon="http://img.sxsw.com/2014/events/funnyordielogo.jpg"
+
+name="Brute Squad - Original Comedy"
+url="https://www.youtube.com/channel/UCnhRbK8BAxdz_uoWxoqORKg"
+icon="https://yt3.ggpht.com/-ucrORo2h43k/AAAAAAAAAAI/AAAAAAAAAAA/VYmZJ69gw-c/s900-c-k-no/photo.jpg"
+
+name="UCB Comedy"
+url="https://www.youtube.com/channel/UC33mB2wpioTCG4_nICJ3upQ"
+icon="https://i.ytimg.com/vi/F6v86OD_LU4/hqdefault.jpg"
+
+name="CollegeHumor"
+url="https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
+icon="http://topyaps.com/wp-content/uploads/2013/05/collegehumor.jpg"
+
+name="Cracked"
+url="https://www.youtube.com/channel/UCjD2KyAEm84yVH8cTilID7Q"
+icon="https://yt3.ggpht.com/-PwRis7LwGLU/AAAAAAAAAAI/AAAAAAAAAAA/4OZKm24Mbro/s900-c-k-no/photo.jpg"
+
