@@ -2,14 +2,6 @@ name="Funny OR Die"
 url="https://www.youtube.com/channel/UCzS3-65Y91JhOxFiM7j6grg"
 icon="http://img.sxsw.com/2014/events/funnyordielogo.jpg"
 
-name="Brute Squad - Original Comedy"
-url="https://www.youtube.com/channel/UCnhRbK8BAxdz_uoWxoqORKg"
-icon="https://yt3.ggpht.com/-ucrORo2h43k/AAAAAAAAAAI/AAAAAAAAAAA/VYmZJ69gw-c/s900-c-k-no/photo.jpg"
-
-name="UCB Comedy"
-url="https://www.youtube.com/channel/UC33mB2wpioTCG4_nICJ3upQ"
-icon="https://i.ytimg.com/vi/F6v86OD_LU4/hqdefault.jpg"
-
 name="CollegeHumor"
 url="https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g"
 icon="http://topyaps.com/wp-content/uploads/2013/05/collegehumor.jpg"
@@ -18,3 +10,230 @@ name="Cracked"
 url="https://www.youtube.com/channel/UCjD2KyAEm84yVH8cTilID7Q"
 icon="https://yt3.ggpht.com/-PwRis7LwGLU/AAAAAAAAAAI/AAAAAAAAAAA/4OZKm24Mbro/s900-c-k-no/photo.jpg"
 
+name="Epic Fails"
+url="https://www.youtube.com/channel/UCBTM7JL040-mOyJX_Bdh9eQ"
+icon="http://i.ytimg.com/vi/nZHoONe2V58/hqdefault.jpg"
+
+name="Fail Army"
+url="https://www.youtube.com/channel/UCPDis9pjXuqyI7RYLJ-TTSA"
+icon="http://img.youtube.com/vi/EMcrgOj3ymM/0.jpg"
+
+name="Adult Swim"
+url="https://www.youtube.com/channel/UCgPClNr5VSYC3syrDUIlzLw"
+icon="https://i.ytimg.com/vi/58hlM6Nolt8/hqdefault.jpg"
+
+name="People Are Idiots"
+url="https://www.youtube.com/channel/UCVsKFwG3_fLTo-e6CuwZHTw"
+icon="https://i.ytimg.com/vi/oklics6PFR8/hqdefault.jpg"
+
+name="People are Awesome"
+url="https://www.youtube.com/channel/UCIJ0lLcABPdYGp7pRMGccAQ"
+icon="http://i.ytimg.com/vi/dHAYlE806zE/hqdefault.jpg"
+
+name="The Pet Collective"
+url="https://www.youtube.com/channel/UCPIvT-zcQl2H0vabdXJGcpg"
+icon="http://i.ytimg.com/vi/mNaO9in8Plc/hqdefault.jpg"
+
+name="Funny Pets"
+url="https://www.youtube.com/channel/UCeZe0VwwhEf8KTI2FHfJtTg"
+icon="http://i1.ytimg.com/vi/OKnaaF-cMmE/hqdefault.jpg"
+
+name="Trip Burger Pets"
+url="https://www.youtube.com/channel/UCrvbod3A_mgvF-iK_kMQLzw"
+icon="https://i.ytimg.com/vi/EYB1vK68DSY/hqdefault.jpg"
+
+name="Trip Burger Laughs"
+url="https://www.youtube.com/channel/UCfoAN22uR7KSwemGKz44imA"
+icon="http://i1.ytimg.com/vi/jgwAzkipPbI/hqdefault.jpg"
+
+name="Brute Squad - Original Comedy"
+url="https://www.youtube.com/channel/UCnhRbK8BAxdz_uoWxoqORKg"
+icon="https://yt3.ggpht.com/-ucrORo2h43k/AAAAAAAAAAI/AAAAAAAAAAA/VYmZJ69gw-c/s900-c-k-no/photo.jpg"
+
+name="The Best Fails"
+url="https://www.youtube.com/channel/UCuunebfqIi8uCzAs_fO1D6Q"
+icon="http://i.ytimg.com/vi/gElbVaZ2g7c/hqdefault.jpg"
+
+name="Mega Fails"
+url="https://www.youtube.com/channel/UCo4XcrQ5zB3DUwqa7lvNUeQ"
+icon="http://i.ytimg.com/vi/YR82_cpW9Dc/hqdefault.jpg"
+
+name="Just For Laughs"
+url="https://www.youtube.com/channel/UCqq3PZwp8Ob8_jN0esCunIw"
+icon="https://i.ytimg.com/vi/7LFiIBwVkkA/hqdefault.jpg"
+
+name="Just For Laughs Gags"
+url="https://www.youtube.com/channel/UCpsSadsgX_Qk9i6i_bJoUwQ"
+icon="http://i.ytimg.com/vi/kPHcrgWkrI4/hqdefault.jpg"
+
+name="UCB Comedy"
+url="https://www.youtube.com/channel/UC33mB2wpioTCG4_nICJ3upQ"
+icon="https://i.ytimg.com/vi/F6v86OD_LU4/hqdefault.jpg"
+
+name="Just Funny"
+url="https://www.youtube.com/channel/UC3Z3d4yMRJbPDXQwfFABy-w"
+icon="https://yt3.ggpht.com/-ViCpDv_an2o/AAAAAAAAAAI/AAAAAAAAAAA/zBpUZgVCjzs/s100-c-k-no-mo-rj-c0xffffff/photo.jpg"
+
+name="Damn Fail"
+url="https://www.youtube.com/channel/UCRvQ6H9unDQSOD0-qZ0EZog"
+icon="https://i.ytimg.com/vi/id3nik5Rldw/hqdefault.jpg"
+
+name="FAILTUBE"
+url="https://www.youtube.com/channel/UCMEL4SJYeEtpm0DRw1z1MrQ"
+icon="https://i.ytimg.com/vi/F8lEM-JX47c/hqdefault.jpg"
+
+name="Raging Humor"
+url="https://www.youtube.com/channel/UC12h-kPscJ3RIkSsMljIRrg"
+icon="https://i.ytimg.com/vi/fn6NtL5StmY/hqdefault.jpg"
+
+name="JukinVideo Vault"
+url="https://www.youtube.com/channel/UCsVXjNRWJMyXViNLM2pyMfg"
+icon="http://boofitube.com/_one/ogimage.php?img=w7YkC-XNTHo.jpg"
+
+name="Hidden Camera Classics"
+url="https://www.youtube.com/channel/UCmBvQYdo2Y_yAhIe_gBwAww"
+icon="http://i1.ytimg.com/vi/t8uwZp3_Dc8/hqdefault.jpg"
+
+name="Just Kidding Pranks"
+url="https://www.youtube.com/channel/UCaAZ2O-1wvipTqdbFv2cJJQ"
+icon="http://i1.ytimg.com/vi/CqsCS1pijqU/hqdefault.jpg"
+
+name="Improv Everywhere"
+url="https://www.youtube.com/channel/UCTrtA2LyW7gie0o8hY4efXw"
+icon="http://img.youtube.com/vi/99NO28P8ybs/hqdefault.jpg"
+
+name="Last Fails"
+url="https://www.youtube.com/channel/UC2DTHnw8pTn4yuSsYOA8f1Q"
+icon="http://i.ytimg.com/vi/oJnye53nfXU/hqdefault.jpg"
+
+name="MediocreFilms"
+url="https://www.youtube.com/channel/UCUQYeJ6D3qDlQkMboh-8-xw"
+icon="https://i.ytimg.com/vi/eDyND1CZGBc/hqdefault.jpg"
+
+name="MediocreFilms2"
+url="https://www.youtube.com/channel/UCNYP_JPYClobmWs3C-kosgg"
+icon="http://i1.ytimg.com/vi/W93jDIVVV_k/hqdefault.jpg"
+
+name="For Fun"
+url="https://www.youtube.com/channel/UCYyoaOKL9s4v3P5PleD4vHA"
+icon="https://yt3.ggpht.com/-mggYDl98-Y0/AAAAAAAAAAI/AAAAAAAAAAA/-akigl6UYOw/s900-c-k-no/photo.jpg"
+
+name="Oddly Satisfying"
+url="https://www.youtube.com/channel/UCm-GNBrtBmNZbbnsAeZsFcg"
+icon="https://i.ytimg.com/vi/eQ8ItZ0WylA/hqdefault.jpg"
+
+name="Oddly Satisfying Video"
+url="https://www.youtube.com/channel/UCz3c0EW6tpYXhSA2WE4uYDg"
+icon="https://i.ytimg.com/vi/t_pvV_d4h0s/hqdefault.jpg"
+
+name="Awesome World"
+url="https://www.youtube.com/channel/UChllxvxvKLkZYi28N8tlB5A"
+icon="http://i.ytimg.com/vi/p7V-8v8tOJQ/hqdefault.jpg"
+
+name="Awesome Life"
+url="https://www.youtube.com/channel/UCi5t4HKB-UOGF_u7_Ulj6Cw"
+icon="https://i.ytimg.com/vi/LiqCCiTQ4bU/hqdefault.jpg"
+
+name="The Funniest Vines"
+url="https://www.youtube.com/channel/UCdyKVqV0hO_p-th33Mex_Yw"
+icon="http://i1.ytimg.com/vi/qJK1yMVddpg/hqdefault.jpg"
+
+name="Best Vines Compilations"
+url="https://www.youtube.com/channel/UCH6nMXC_CeVD6BEcvvuTrxg"
+icon="http://i1.ytimg.com/vi/Rorl-1d3wp4/hqdefault.jpg"
+
+name="DeepLaughs"
+url="https://www.youtube.com/channel/UCdwq3frYWoUZfvKr-4qborg"
+icon="https://i.ytimg.com/vi/prwwiAzFmSc/hqdefault.jpg"
+
+name="DeeperLaughs"
+url="https://www.youtube.com/channel/UCKByyLXWwb-aSto9LGU_wRw"
+icon="http://i.ytimg.com/vi/N2sIyKFkk2s/hqdefault.jpg"
+
+name="ViralFail TV"
+url="https://www.youtube.com/channel/UCVRvB_VE-z25nKEUJ0CwOsg"
+icon="https://i.ytimg.com/vi/gzPQJh7hh1s/hqdefault.jpg"
+
+name="Viral Fail"
+url="https://www.youtube.com/channel/UClHT2KiXlv_IcjTcHICCvLw"
+icon="http://i.ytimg.com/vi/rk4kBZMqnU4/hqdefault.jpg"
+
+name="Army Home"
+url="https://www.youtube.com/channel/UC44vghbSQxUs-znfZxxZpZg"
+icon="http://i1.ytimg.com/vi/rWnP1UavAXA/hqdefault.jpg"
+
+name="Funny Vines"
+url="https://www.youtube.com/channel/UCdmnOJ63TCe2AEdeFTYiweA"
+icon="http://i.ytimg.com/vi/tdFaLYsMj_s/hqdefault.jpg"
+
+name="Vines TV Show"
+url="https://www.youtube.com/channel/UC4bn1Xg1T2Nb089YDDbdoHw"
+icon="http://i.ytimg.com/vi/iaJl957PhK4/hqdefault.jpg"
+
+name="MonthlyFails"
+url="https://www.youtube.com/channel/UCEkZHiGsR4jvWeHunEB3Qaw"
+icon="https://i.ytimg.com/vi/aAdlk_uTe-c/hqdefault.jpg"
+
+name="B&C Vines"
+url="https://www.youtube.com/channel/UCZOj--R68pX1OeRvczbYjMw"
+icon="http://i1.ytimg.com/vi/kMUpB2N0aDs/hqdefault.jpg"
+
+name="TV VineADD"
+url="https://www.youtube.com/channel/UCy0S4ABTUfuGaWpTeSflHLQ"
+icon="https://i.ytimg.com/vi/Ayt1t5l8rJE/hqdefault.jpg"
+
+name="FailADD"
+url="https://www.youtube.com/channel/UCxlMeqNVqBccylYporewB7w"
+icon="https://i.ytimg.com/vi/KaJKfwwFOIs/hqdefault.jpg"
+
+name="Sport Vines Highlight"
+url="https://www.youtube.com/channel/UCFYAbsIKIacmeb9NHDnUXhw"
+icon="https://i.ytimg.com/vi/_IZs-9-rDZA/hqdefault.jpg"
+
+name="Sports Vines Land"
+url="https://www.youtube.com/channel/UCgn8FJpkMLJWed7vkvsV0mg"
+icon="https://i.ytimg.com/vi/jHA976lbYcY/hqdefault.jpg"
+
+name="Sport Vines"
+url="https://www.youtube.com/channel/UClFZ58k3TunTz8QVp-9e1Vw"
+icon="http://i.ytimg.com/vi/BSETYIlPcxk/hqdefault.jpg"
+
+name="Infinite Vines"
+url="https://www.youtube.com/channel/UC_eR8YpmUyAMi6tlMZrH-ag"
+icon="https://i.ytimg.com/vi/-sxtBKLpF0I/hqdefault.jpg"
+
+name="Vine Addict"
+url="https://www.youtube.com/channel/UCDciIY5Ojr_VRyOERCbjJqw"
+icon="https://i.ytimg.com/vi/bvGQP773gcQ/hqdefault.jpg"
+
+name="Beat Drop Vines"
+url="https://www.youtube.com/channel/UCG7QLW1trR6Gg3peJaU8jQQ"
+icon="https://i.ytimg.com/vi/TCDfSyQFEeo/hqdefault.jpg"
+
+name=""
+url="https://www.youtube.com/channel/"
+icon=""
+
+name=""
+url="https://www.youtube.com/channel/"
+icon=""
+
+name=""
+url="https://www.youtube.com/channel/"
+icon=""
+
+name=""
+url="https://www.youtube.com/channel/"
+icon=""
+
+name=""
+url="https://www.youtube.com/channel/"
+icon=""
+
+name=""
+url="https://www.youtube.com/channel/"
+icon=""
+
+name=""
+url="https://www.youtube.com/channel/"
+icon=""
